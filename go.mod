@@ -2,4 +2,4 @@ module github.com/projectdiscovery/mapcidr
 
 go 1.14
 
-require github.com/projectdiscovery/gologger v1.1.2
+require github.com/projectdiscovery/gologger v1.1.4
